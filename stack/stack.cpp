@@ -27,10 +27,6 @@ public:
 
 
 
-
-
-using namespace std;
-
 pilha::pilha() //construtora //stack
 {
     tamanho = 0;
